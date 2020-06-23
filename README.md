@@ -52,7 +52,7 @@ troubleshoot your issue independently first before seeking help.
 
 Some examples of independent troubleshooting might look like:
 
-- Checking out [Learn's help articles](help.learn.co) - these articles include advice and answers to
+- Checking out [Learn's help articles](https://help.learn.co/) - these articles include advice and answers to
   frequently asked questions from the Flatiron School Team: help.learn.co
 - Reading the Readme thoroughly for the lab you’re on to make sure you’re not missing relevant details
 - Reviewing previous Learn lessons that may apply to the error or issue
